@@ -14,7 +14,7 @@
 		<developer>
 			<id>constantiner</id>
 			<name>Konstantin Kovalev</name>
-			<email>constantiner at gmail.com</email>
+			<email>constantiner@gmail.com</email>
 			<url>http://riapriority.com/en/blogs/</url>
 			<organization>Riapriority.com</organization>
 			<organizationUrl>http://riapriority.com/</organizationUrl>
@@ -40,6 +40,12 @@
 		<repository>
 			<id>flex-mojos</id>
 			<url>https://repository.sonatype.org/content/groups/flexgroup/</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
 		</repository>
 	</repositories>
 
