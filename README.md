@@ -42,4 +42,4 @@ Because of problems with running tests with custom runner (`[RunWith]` metatag) 
 ## Thanks
 
 Special thanks to [Evtim Georgiev](http://evtimmy.com/) for some ideas on implementation and [Chet Haase](http://graphics-geek.blogspot.com/) 
-and his [Flex 4 Fun [book](http://www.artima.com/shop/flex_4_fun) for additional information about animations.
+and his [Flex 4 Fun book](http://www.artima.com/shop/flex_4_fun) for additional information about animations.
