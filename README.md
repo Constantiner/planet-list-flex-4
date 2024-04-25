@@ -43,3 +43,5 @@ Because of problems with running tests with custom runner (`[RunWith]` metatag) 
 
 Special thanks to [Evtim Georgiev](http://evtimmy.com/) for some ideas on implementation and [Chet Haase](http://graphics-geek.blogspot.com/) 
 and his [Flex 4 Fun book](http://www.artima.com/shop/flex_4_fun) for additional information about animations.
+
+Solar and planet icons are provided by [Iconka.com](http://iconka.com/2009/10/24/601/) and [GUIFx](http://blog.guifx.com/2008/08/30/free-solar-system-icons/).

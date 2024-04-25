@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2010, Konstantin Kovalev aka Constantiner (constantiner at gmail dot com)
+// Copyright (c) 2010, Konstantin Kovalev aka Constantiner (constantiner@gmail.com)
 // All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without modification, are permitted provided that 
@@ -28,7 +28,7 @@ package com.riapriority.asmock.constraints
 
 	/**
 	 * Implements constraint to compare vectors within testing with ASMock.
-	 * @author Konstantin Kovalev (constantiner at gmail dot com)
+	 * @author Konstantin Kovalev (constantiner@gmail.com)
 	 */
 	public class VectorEquals extends AbstractConstraint
 	{

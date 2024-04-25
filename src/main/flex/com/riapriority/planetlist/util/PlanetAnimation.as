@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2010, Konstantin Kovalev aka Constantiner (constantiner at gmail dot com)
+// Copyright (c) 2010, Konstantin Kovalev aka Constantiner (constantiner@gmail.com)
 // All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without modification, are permitted provided that 
@@ -36,7 +36,7 @@ package com.riapriority.planetlist.util
 	[Event(name="animationUpdate", type="com.riapriority.planetlist.util.PlanetAnimationEvent")]
 	/**
 	 * Controls planet animation.
-	 * @author Konstantin Kovalev (constantiner at gmail dot com)
+	 * @author Konstantin Kovalev (constantiner@gmail.com)
 	 */
 	public class PlanetAnimation extends EventDispatcher implements IAnimationTarget, RendererWithAnimation
 	{
