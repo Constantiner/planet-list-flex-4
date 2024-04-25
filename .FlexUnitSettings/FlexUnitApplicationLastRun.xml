@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="" >
+<testsuite  name="Default Test Suite" project="planetlist">
+<testsuite name="com.riapriority.planetlist.util:FlatPlanetCalculatorTest" type="testsuiteclass"/>
+<testsuite name="com.riapriority.planetlist.layout:SolarPlanetLayoutTest" type="testsuiteclass"/>
+<testsuite name="com.riapriority.planetlist.util:RelativePlanetCalculatorTest" type="testsuiteclass"/>
+<testsuite name="com.riapriority.planetlist.renderer:PlanetRendererDimentionsTest" type="testsuiteclass"/>
+</testsuite>
+</testrun>
